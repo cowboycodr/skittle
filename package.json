@@ -1,7 +1,7 @@
 {
-	"name": "create-svelte",
-	"version": "6.3.8",
-	"description": "A CLI for creating new SvelteKit projects",
+	"name": "skittle",
+	"version": "0.0.1",
+	"description": "A powerful fork of create-svelte with added features",
 	"keywords": [
 		"create",
 		"new",
@@ -14,8 +14,8 @@
 	],
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/sveltejs/kit",
-		"directory": "packages/create-svelte"
+		"url": "https://github.com/cowboycodr/skittle",
+		"directory": "packages/skittle"
 	},
 	"license": "MIT",
 	"homepage": "https://kit.svelte.dev",

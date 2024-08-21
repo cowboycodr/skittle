@@ -1,5 +1,5 @@
 {
-	"name": "skittle",
+	"name": "create-skittle",
 	"version": "0.0.1",
 	"description": "A powerful fork of create-svelte with added features",
 	"keywords": [
@@ -15,7 +15,7 @@
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/cowboycodr/skittle",
-		"directory": "packages/skittle"
+		"directory": "packages/create-skittle"
 	},
 	"license": "MIT",
 	"homepage": "https://kit.svelte.dev",

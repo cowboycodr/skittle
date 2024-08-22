@@ -1,7 +1,7 @@
 {
 	"name": "create-skittle",
 	"version": "0.1.2",
-	"description": "A powerful fork of create-svelte with added features",
+	"description": "A powerful fork of create-svelte with added features and options",
 	"keywords": [
 		"create",
 		"new",

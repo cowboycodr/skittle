@@ -8,6 +8,18 @@ npm create skittle@latest
 
 ...and follow the prompts.
 
+## Integrations
+
+| Integration | Description | Status |
+| ----------- | ----------- | ------ |
+| Tailwind CSS | Rapidly build modern websites without ever leaving your HTML | ✅
+| Supabase | Open source Firebase alternative. Instant Authentication, APIs, Edge Functions, Realtime subscriptions, Storage, etc. | ⏳
+
+- ✅: Integrated
+- ⏳: Planned
+
+More coming soon.
+
 ## API
 
 You can also use `create-skittle` programmatically:

@@ -1,4 +1,4 @@
-# create-svelte
+# create-skittle
 
 A powerful fork of `create-svelte` with added features and options. Just run...
 
